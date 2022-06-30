@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PicaWEB/WebContent/StavkaJSP.jsp&apos; to &apos;KorpaJSP.jsp&apos;" description="Rename resource &apos;StavkaJSP.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/StavkaJSP.jsp" name="KorpaJSP.jsp" stamp="1549195411047" updateReferences="true"/>
+</session>

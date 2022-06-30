@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Laptop\Documents\New folder\pica-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+546274918.index
+1252176119.index
+3471790781.index
+3302868109.index
+3251802697.index
+415763932.index

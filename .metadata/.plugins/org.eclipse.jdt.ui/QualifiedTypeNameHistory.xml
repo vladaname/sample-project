@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="manager.StavkaManager"/>
+<fullyQualifiedTypeName name="model.Stavka"/>
+<fullyQualifiedTypeName name="model.Racun"/>
+<fullyQualifiedTypeName name="model.Korpa"/>
+<fullyQualifiedTypeName name="javax.persistence.Query"/>
+<fullyQualifiedTypeName name="model.Korisnik"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="model.Pica"/>
+<fullyQualifiedTypeName name="manager.KorpaManager"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+<fullyQualifiedTypeName name="manager.JPAUtil"/>
+<fullyQualifiedTypeName name="helper.ListAllKorpaByKorisnik"/>
+<fullyQualifiedTypeName name="servlets.Korpa"/>
+</qualifiedTypeNameHistroy>

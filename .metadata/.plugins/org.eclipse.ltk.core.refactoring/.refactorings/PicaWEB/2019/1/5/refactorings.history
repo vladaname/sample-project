@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PicaWEB/WebContent/Main.jsp&apos; to &apos;MainJSP.jsp&apos;" description="Rename resource &apos;Main.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/Main.jsp" name="MainJSP.jsp" stamp="1548787194824" updateReferences="true"/>
+</session>

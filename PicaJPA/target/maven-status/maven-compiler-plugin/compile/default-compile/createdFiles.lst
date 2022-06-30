@@ -1,0 +1,7 @@
+manager\JPAUtil.class
+model\Uloga.class
+model\Korisnik.class
+model\Stavka.class
+model\Racun.class
+model\Korpa.class
+model\Pica.class
